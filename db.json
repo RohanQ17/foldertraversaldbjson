@@ -1,0 +1,44 @@
+{
+    "name": "My PC",
+    "children": [
+      {
+        "name": " USB-3 (A:)",
+        "children": [
+          {
+            "name": "Documents and Settings",
+            "children": []
+          }
+        ]
+      },
+      {
+        "name": "Local Disk (C:)",
+        "children": [
+          {
+            "name": "Documents and Settings",
+            "children": []
+          },
+          {
+            "name": "DOCS",
+            "children": [
+              { "name": "passwords", "children": [] },
+              {
+                "name": "Description",
+                "children": [
+                  { "name": "company", "children": [] },
+                  { "name": "downloads", "children": [] },
+                  { "name": "images", "children": [] },
+                  { "name": "news", "children": [] },
+                  { "name": "scripts", "children": [] },
+                  { "name": "support", "children": [] }
+                ]
+              }
+            ]
+          },
+          { "name": "Postgres", "children": [] },
+          { "name": "Django", "children": [] },
+          { "name": "Program Files", "children": [] },
+          { "name": "WINDOWS", "children": [] }
+        ]
+      }
+    ]
+  }
