@@ -1,14 +1,10 @@
 {
-    "name": "My PC",
+  "folderStructure": {
+    "name": "My Computer",
     "children": [
       {
-        "name": " USB-3 (A:)",
-        "children": [
-          {
-            "name": "Documents and Settings",
-            "children": []
-          }
-        ]
+        "name": "3½ Floppy (A:)",
+        "children": []
       },
       {
         "name": "Local Disk (C:)",
@@ -18,11 +14,11 @@
             "children": []
           },
           {
-            "name": "DOCS",
+            "name": "Inetpub",
             "children": [
-              { "name": "passwords", "children": [] },
+              { "name": "AdminScripts", "children": [] },
               {
-                "name": "Description",
+                "name": "wwwroot",
                 "children": [
                   { "name": "company", "children": [] },
                   { "name": "downloads", "children": [] },
@@ -34,11 +30,12 @@
               }
             ]
           },
-          { "name": "Postgres", "children": [] },
-          { "name": "Django", "children": [] },
+          { "name": "mysql", "children": [] },
+          { "name": "PHP", "children": [] },
           { "name": "Program Files", "children": [] },
           { "name": "WINDOWS", "children": [] }
         ]
       }
     ]
   }
+}
